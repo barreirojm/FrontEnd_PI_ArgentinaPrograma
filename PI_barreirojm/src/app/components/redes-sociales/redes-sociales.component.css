@@ -6,3 +6,13 @@ div{
 a{
     color: white;
 }
+
+.btn{
+    align-items: center;
+    font-size: 1.3rem;
+    line-height: 1.3;
+    letter-spacing: 0.265em;
+    font-weight: 900;
+    font-style: normal;
+    margin-top: -23px;
+}
